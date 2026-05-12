@@ -1,0 +1,73 @@
+{
+  "configVersion": 1,
+  "timestamp": 1778610454724,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/chunk-LS4SCMUJ.js",
+        "/chunk-OGQDLKBL.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main-RCEB57YS.js",
+        "/manifest.webmanifest",
+        "/styles-DUULMYBM.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/farmlogo.svg",
+        "/icons/apple-touch-icon.png",
+        "/icons/icon-192x192.png",
+        "/icons/icon-512x512.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/chunk-LS4SCMUJ.js": "f28bfd28bbddf8bc533ed4146794b3f6f416f130",
+    "/chunk-OGQDLKBL.js": "ddb8e4c25c5fd139c5d2d27504d2ee08cf9cf111",
+    "/farmlogo.svg": "4b37282cb77d1827f26118580d08967f0e9e9b48",
+    "/favicon.ico": "1502262b8e78fcb85a61e737c8da48f3d1e06286",
+    "/icons/apple-touch-icon.png": "b53b29d53e7dba51618da41eb4e9c4ed44d12943",
+    "/icons/icon-192x192.png": "ec56f65f5db8e9812a86596c67e360f064780f05",
+    "/icons/icon-512x512.png": "72930999bf8f3f9064850df26f9877bff39ea473",
+    "/index.html": "f8e4addf7490debf4a81662534abe0a178960b10",
+    "/main-RCEB57YS.js": "c66b8c9f582d4b657a79277803c72e0959b94369",
+    "/manifest.webmanifest": "514843250bb0a12641589cb2ca13e4bc7e3008e0",
+    "/styles-DUULMYBM.css": "1e259b0a0da35006e493e226963e1d1fcdab39a5"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}

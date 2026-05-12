@@ -1,0 +1,22 @@
+{
+  "name": "Stadsakker Gouda",
+  "short_name": "Stadsakker",
+  "description": "Spreadsheet-driven planning and checklist app for Stadsakker Gouda.",
+  "theme_color": "#2e6b52",
+  "background_color": "#edf5ef",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
