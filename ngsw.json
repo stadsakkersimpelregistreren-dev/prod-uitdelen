@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1784482835061,
+  "timestamp": 1784561622087,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -15,7 +15,7 @@
         "/chunk-OGQDLKBL.js",
         "/favicon.ico",
         "/index.html",
-        "/main-2FHQBIRL.js",
+        "/main-EOD2QUMN.js",
         "/manifest.webmanifest",
         "/styles-J7ZNLZTP.css"
       ],
@@ -46,8 +46,8 @@
     "/icons/apple-touch-icon.png": "b53b29d53e7dba51618da41eb4e9c4ed44d12943",
     "/icons/icon-192x192.png": "ec56f65f5db8e9812a86596c67e360f064780f05",
     "/icons/icon-512x512.png": "72930999bf8f3f9064850df26f9877bff39ea473",
-    "/index.html": "ae98d992f51248f8e6c5bd5897f360b4de382791",
-    "/main-2FHQBIRL.js": "d2a71feada712a64fb3312ae563aaeb80721382d",
+    "/index.html": "7513a2706c6b2e0f497ec1eacc57b46e58cddc95",
+    "/main-EOD2QUMN.js": "ee44ce0a55ef273eb5a07a95e022c1f9830ff65f",
     "/manifest.webmanifest": "514843250bb0a12641589cb2ca13e4bc7e3008e0",
     "/styles-J7ZNLZTP.css": "5c07663f1b526234b393a5b5817e19b60bc309d6"
   },
